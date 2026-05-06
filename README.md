@@ -7,7 +7,7 @@ Résultat :
 objection v1.12.4
 
 Preuve :
-![](5.png)
+![](4.png)
 
 Commande :
 adb devices
@@ -45,7 +45,7 @@ Résultat :
 Connexion réussie avec l’application.
 
 Preuve :
-![](4.png)
+![](5.png)
 
 Conclusion :
 Objection est correctement attaché à l’application.
